@@ -48,7 +48,7 @@ Exploratory data analysis (EDA) and visualization on booking trends, cancellatio
 
 ## 📃 Resume & Contact
 
-- 🔗 [Resume (PDF)](https://drive.google.com/drive/folders/17hPcT2Ko9f1EOxSQLq1DsvIOy0H5XxAL?usp=sharing)  
+- 🔗 [Resume (PDF)](https://drive.google.com/file/d/1BehJxWkFeMx6V6YI1tTa58RK6B7QYqJZ/view?usp=drivesdk)  
 - 🌐 [LinkedIn](https://linkedin.com/in/yukta-sharma06)  
 - 💻 [GitHub](https://github.com/yukusharma/projects)  
 - 📩 Email: yukta0603@gmail.com  
